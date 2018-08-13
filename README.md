@@ -37,5 +37,6 @@
   - paper.docx为决策树的理论说明
   - sklearn_DT_mushrooms.py 为引用sklearn库做的决策
   - tree.py、treePlotter.py 为算法代码
+  - mushrooms.csv为数据文件
   - out.png为模型输出图
 ![image](https://github.com/Aplicity/mushrooms_DT/blob/master/out.png)
